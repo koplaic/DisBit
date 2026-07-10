@@ -1,0 +1,21 @@
+{
+  "name": "disbit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@discordjs/builders": "^1.14.1",
+    "@discordjs/rest": "^2.6.1",
+    "discord-api-types": "^0.38.49",
+    "discord.js": "^13.17.1",
+    "dotenv": "^17.4.2",
+    "sqlite3": "^6.0.1"
+  }
+}
